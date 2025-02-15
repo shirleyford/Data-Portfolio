@@ -35,6 +35,7 @@ SQL Queries:
 Used to extract and preprocess sales data from a relational database.
 
 Applied joins, aggregations, and filtering to optimize reporting.
+(Go to SQLQuery1.sql for Sql code)
 
 Power Query Transformations:
 
@@ -58,3 +59,5 @@ Open the Sales Power BI.pbix file in Power BI Desktop.
 Refresh the data to load the latest updates.
 
 Interact with the dashboard using filters and slicers.
+
+
